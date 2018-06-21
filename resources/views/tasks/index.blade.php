@@ -12,15 +12,7 @@
         <script src="https://cdnjs.cl"></script>
     </head>
     <body>
-    <select name="id123" id="">
-        <ul>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-        </ul>
-    </select>
+
     </body>
 
 
