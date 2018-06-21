@@ -8,6 +8,6 @@ class TasksController extends Controller
 {
     public function index()
     {
-        return view('welcome.blade.php');
+        return view('tasks.index');
     }
 }
